@@ -1,0 +1,17 @@
+Complete several of the Matplotlib tutorials at the following link until you feel comfortable: Matplotlib Tutorials. 
+Using a data set of your choice, write an introduction explaining the data set.
+Identify a question or question(s) that you would like to explore in your data set.
+Create at least three graphs that help answer these questions. Make sure your graphs are clearly readable and are labeled appropriately and professionally.
+Explain what you have learned from each of your graphs.
+Write a conclusion that summarizes your findings.
+Here are some good websites to look for data sets.
+Kaggle
+UCI Machine Learning Repository 
+US Government Open Data 
+
+
+Submission Instructions
+Click the title above to submit your assignment.
+This exercise is due by Sunday 11:59 PM.
+Submit your code, output, and answers at the link above. Comment all your code and answer any questions that are asked in the instructions. It is perfectly fine to answer a question by displaying output from your code, but make sure you are displaying the appropriate output to answer the question. I would recommend using and submitting a Jupyter Notebook, but this is not required.
+View the rubric for this Assignment by clicking on the link below:
